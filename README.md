@@ -1,25 +1,25 @@
 <h1 align="center">
-    <img alt="Delivery" src="https://user-images.githubusercontent.com/20192309/95088742-b5b39280-06f9-11eb-8d03-bd33177481d4.png" width="100%" />
+    <img alt="Delivery" src="https://user-images.githubusercontent.com/20192309/116337854-2e229380-a7b1-11eb-9dc8-e719d619731a.png" width="100%" />
 </h1>
 
-## Delivery
+## Estabelecimento
 
-# :rocket: Front-End Administrador
+# :rocket: Front-End
 
 > TUDO ESTÁ BEM!!!!!.  <img src="https://user-images.githubusercontent.com/20192309/80777643-4202cd80-8b3c-11ea-8f32-5348bda4486b.jpg" width="10%" />
 
 ## Sobre o projeto
 
-O Front-end é responsável pela interação com o usuário, que irá cadastrar os produtos e todos as configurações do produtos para que os mesmos possam ser apresentados no site para o cliente, a parte do administrador é responsivo permitindo que o usuário possa acessar tanto nos computadores quanto nos celulares.
+O Front-end é responsável pela interação com o usuário, que irá cadastrar os estabelecimentos, alterar os dados pessoais e a senha.
 
 Para que o usuário acesse as telas de cadastro e configuração o back-end deve ser configurado e rodando para ter acesso acesse o link abaixo: <br />
 
-<a href="https://github.com/kayzarosa/deliveryBackend"> Delivery back-end</a> <br/>
+<a href="https://github.com/kayzarosa/estabelecimento"> Estabelecimento back-end</a> <br/>
 
 
 ## Versão e instalação
 
-<a href="https://nodejs.org/pt/"> NodeJS 12.18.4 LTS</a> <br/>
+<a href="https://nodejs.org/pt/"> NodeJS 14.15.1 LTS</a> <br/>
 
 Caso não tenha instalado:
 <br />
@@ -43,7 +43,7 @@ yarn start
 
 ## Usando o site
 
-O usuário deve ter o seu acesso aprovado para o login possa ser realizado e todas as configurações estão descritas no repositório do back-end.
+Após todos os passos listados no back-end terem sidos realizados o front estará pronto para ser utilizado.
 
 
 <br />
